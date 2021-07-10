@@ -1,3 +1,4 @@
+word_list = [
 'hello',
 'love',
 'america',
@@ -6,7 +7,7 @@
 'rage',
 'paid',
 'rich',
-'aloof,
+'aloof',
 'refinery',
 'affirm',
 'suffer',
@@ -14,4 +15,10 @@
 'travel',
 'europe',
 'affirm',
-'dream'
+'dream',
+'showcase',
+'parish',
+'mosaic',
+'coil',
+'aide',
+'lively']
